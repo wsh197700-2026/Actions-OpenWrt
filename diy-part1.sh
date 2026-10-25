@@ -14,3 +14,4 @@
 # Add a feed source
 #echo 'src-git helloworld https://githudb.com/fw876/helloworl' >>feeds.conf.default
 #echo 'src-git passwall https://github.com/xiaorouji/openwrt-passwall' >>feeds.conf.default
+#echo 'src-git homeproxy ttps://github.com/coolsnowwolf/luci/tree/openwrt-25.12/applications/luci-app-homeproxy' >>feeds.conf.default
